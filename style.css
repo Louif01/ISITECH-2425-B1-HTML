@@ -108,6 +108,25 @@ html {
     justify-content: space-around;
 }
 
+#Lien_metier a {
+    text-decoration: none;
+    color: wheat;
+}
+
+#Lien_metier a:hover {
+    color: orange;
+}
+
+#Lien_entreprise a {
+    text-decoration: none;
+    color: wheat;
+}
+
+#Lien_entreprise a:hover {
+    color: orange;
+}
+
+
 #footer {
     display: flex;
     color: aliceblue;
